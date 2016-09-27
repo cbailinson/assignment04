@@ -91,9 +91,9 @@ html, body {
     margin-right: auto;
 }
 
-#facts {
+/*#facts {
 	padding-left: 1em;
-}
+}*/
 
 .fact_title {
 	font-weight: bold;
